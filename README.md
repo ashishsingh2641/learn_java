@@ -1,5 +1,5 @@
 # learn_java
-created CoreJava project
-printed hello world app
-created Orgnized project
+created CoreJava project<br/>
+printed hello world app<br/>
+created Orgnized project<br/>
 
