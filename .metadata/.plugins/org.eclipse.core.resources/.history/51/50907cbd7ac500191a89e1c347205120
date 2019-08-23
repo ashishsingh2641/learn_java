@@ -6,6 +6,6 @@ public class Main {
 		int othervalue = firstValue;
 		firstValue = 300;
 		
-		System.out.println( firstValue * othervalue);
+		System.out.println( firstValue / othervalue);
 	}
 }
