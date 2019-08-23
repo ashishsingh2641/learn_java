@@ -2,6 +2,7 @@ package com.virtusa.mathorder;
 
 public class Main {
 	public static void main(String[] args) {
+
 		int valA = 21;
 		int valB = 6;
 		int valC = 3;
@@ -15,5 +16,7 @@ public class Main {
 		System.out.println(result3);
 		int result4 = valA / valC * (valD + valB);
 		System.out.println(result4);
+		
+        
 	}
 }
