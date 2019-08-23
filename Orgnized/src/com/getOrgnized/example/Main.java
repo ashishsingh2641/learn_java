@@ -7,5 +7,8 @@ public class Main {
 		firstValue = 300;
 		
 		System.out.println( firstValue * othervalue);
+		System.out.println( firstValue++);
+		System.out.println( firstValue);
+		System.out.println(++firstValue);
 	}
 }
