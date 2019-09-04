@@ -10,7 +10,7 @@ public class Main {
 	public static void main(String[] args) {
 		int Kval = 5;
 		int factorial = 1;
-		int sum = 1;
+		int sum = 31;
 		while (Kval > 1) {
 			factorial *= Kval;
 			System.out.println(factorial);
@@ -18,8 +18,8 @@ public class Main {
 		}
 		System.out.println(factorial);
 		do {
-			sum *= 2;
+			sum += 1;
 			System.out.println(sum);
-		} while ( sum < 100);
+		} while ( sum < 10);
 	}
 }
