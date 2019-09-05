@@ -17,6 +17,7 @@ public class Main {
 		String message3 = sc.next();
 		System.out.println(message.concat(message3));
 		System.out.println(message3.charAt(0));
+		
 	}
 
 }
